@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi there 👋 I'm Sushant Raj
 
-<!--
-**sushant10033/sushant10033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about leveraging data analytics to empower businesses to make informed decisions and drive growth. With a strong foundation in tools like Excel, PowerBI, SQL, and Python, along with web development skills acquired through WordPress, I aim to combine technical expertise with business acumen to deliver impactful solutions.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+💼 Aspiring Data Analyst
+
+🎓 Bachelor's in Computer Science Engineering
+
+
+
+## Tools and Languages
+
+Excel
+
+PowerBI
+
+MySQL
+
+Python
+
+c++
+
+## Let's Connect!
+https://www.linkedin.com/in/sushant-raj-44720a287/
+
+✉ sushantraj893@gmail.com
+
+
+Feel free to explore my repositories and reach out for collaboration opportunities or just to say hi! 😊
+
